@@ -15,7 +15,7 @@ xdc.set({
   // production
   clean: true,
   hash: true,
-  publicPath: '/docs/',
+  publicPath: '/xdc-ui-docs/',
   assetsPath: 'static',
   urlLoaderLimit: 10000,
   extractCSS: true,
